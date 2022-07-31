@@ -1,8 +1,10 @@
 /* Navbar */
 .navbar{
-    background-color: #000000;
-    opacity: .2;
+    background-color: #303030;
+    opacity: .4;
+    
 }
+
 .carousel-item {
     height: 100vh;
     min-height: 300px;
@@ -114,7 +116,7 @@
 /* Workingspace */
 .bg-subject{
     background-color: rgb(187, 255, 181);
-    height: 700px;
+    min-height: 700px;
 }
 
 .workingspace {
@@ -148,7 +150,7 @@
 /* Testimonial */
 .bg-testi{
     /* background-color:  rgb(187, 255, 181); */
-    height: 380px;
+    min-height: 380px;
 }
 .testimonial {
     margin-top: 130px;
